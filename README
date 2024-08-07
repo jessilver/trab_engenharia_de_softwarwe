@@ -1,4 +1,4 @@
-Estudar: 
+##Estudar: 
 
 -PHP nativo
 -HTML 
@@ -6,3 +6,13 @@ Estudar:
 -Git
 -Github
 -Gitflow
+
+Padrão das features:
+
+Feat/issue-[numero-da-issue]-[descição da issue]
+
+ex:
+
+Feat/issue-01-correcao-de-bugs
+
+OBS: NÃO USAR CARACTERES ESPECIAIS, OU SEJA, MESMO PADRÃO PARA CRIAÇÃO DE NOMES DE VARIÁVEIS
